@@ -1,3 +1,0 @@
-hello
-hello part 2. This message was added after I changed the repo name
-
