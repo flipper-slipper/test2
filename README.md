@@ -1,4 +1,1 @@
-# test
-this is to test git
-this is on my personal pc
-
+I deleted everything, what happens now?
