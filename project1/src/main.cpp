@@ -12,6 +12,7 @@
 
 #include "vex.h"
 #include <cmath>
+#include <stdio.h>
 
 using namespace vex;
 
