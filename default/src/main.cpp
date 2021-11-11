@@ -7,7 +7,7 @@
 /*                                                                            */
 /*    Side Note: This program uses a competion template created by Ryan       */
 /*               McLoughlin and Mr. Chesnais early on in 2020 and uses        */
-/*               modified JPearman buttons functions.                         */
+/*               modified JPearman buttons functions.                         *fdsfhj/
 /*----------------------------------------------------------------------------*/
 
 // ---- START VEXCODE CONFIGURED DEVICES ----
